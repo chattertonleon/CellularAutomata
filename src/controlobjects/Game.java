@@ -1,8 +1,8 @@
-package ControlObjects;
+package controlobjects;
 
-import GameObjects.Board;
-import GameObjects.NaturalInfluence;
-import View.View;
+import gameobjects.Board;
+import gameobjects.NaturalInfluence;
+import view.View;
 
 import java.util.Random;
 

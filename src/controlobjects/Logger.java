@@ -1,4 +1,4 @@
-package ControlObjects;
+package controlobjects;
 
 //Responsible for logging key facts within the game
 public class Logger {

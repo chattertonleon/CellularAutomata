@@ -1,6 +1,6 @@
-package View;
+package view;
 
-import ControlObjects.Settings;
+import controlobjects.Settings;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -42,7 +42,7 @@ public class InputController {
             int boardWidth = InputSanitiser.sanitiseForNumbers(reader.readLine());
             System.out.print("Enter the board height: ");
             int boardHeight = InputSanitiser.sanitiseForNumbers(reader.readLine());
-            System.out.print("Enter life points for each GameObjects.Automata: ");
+            System.out.print("Enter life points for each automata: ");
             int automataLifePoints = InputSanitiser.sanitiseForNumbers(reader.readLine());
             System.out.print("Enter the aggression factor, the higher the number the less likely a automata will be born \naggressive: ");
             int automataAggressionUpperBound = InputSanitiser.sanitiseForNumbers(reader.readLine());

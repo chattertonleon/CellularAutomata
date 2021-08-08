@@ -1,4 +1,4 @@
-package View;
+package view;
 
 //manages rules for input validation
 public class InputSanitiser {

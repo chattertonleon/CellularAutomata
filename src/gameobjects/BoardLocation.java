@@ -1,4 +1,4 @@
-package GameObjects;
+package gameobjects;
 
 //Simulates location in the board
 public class BoardLocation {

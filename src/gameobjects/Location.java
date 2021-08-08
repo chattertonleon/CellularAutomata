@@ -1,4 +1,4 @@
-package GameObjects;
+package gameobjects;
 
 //Utility class to simulate a location on the 2D board, not often used
 public class Location {

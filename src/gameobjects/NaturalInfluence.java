@@ -1,6 +1,6 @@
-package GameObjects;
+package gameobjects;
 
-import GameObjects.Board;
+import gameobjects.Board;
 
 import java.util.Random;
 

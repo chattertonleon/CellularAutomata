@@ -1,8 +1,8 @@
-package View;
+package view;
 
-import ControlObjects.Settings;
-import GameObjects.Automata;
-import GameObjects.Board;
+import controlobjects.Settings;
+import gameobjects.Automata;
+import gameobjects.Board;
 
 //Manages printing of items in the console
 public class View {

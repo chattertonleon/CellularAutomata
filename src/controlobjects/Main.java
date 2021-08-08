@@ -1,8 +1,8 @@
-package ControlObjects;
+package controlobjects;
 
-import GameObjects.Board;
-import View.View;
-import View.InputController;
+import gameobjects.Board;
+import view.View;
+import view.InputController;
 import java.io.IOException;
 
 public class Main {

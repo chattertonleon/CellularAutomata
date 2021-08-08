@@ -1,6 +1,6 @@
-package GameObjects;
+package gameobjects;
 
-import ControlObjects.Settings;
+import controlobjects.Settings;
 
 import java.util.ArrayList;
 import java.util.Random;

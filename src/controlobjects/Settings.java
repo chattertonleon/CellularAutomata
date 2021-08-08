@@ -1,4 +1,4 @@
-package ControlObjects;
+package controlobjects;
 
 //Class to define settings for game, can be user defined or default, hence two constructors
 public class Settings {
